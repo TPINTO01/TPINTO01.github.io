@@ -26,3 +26,7 @@ p {
 	font-family: "Times New Roman", Times, serif;
 }
 
+img.center {
+	display: block;
+	margin: 0 auto;
+}
