@@ -4,5 +4,25 @@ body {
 
 h1 {
 	color: black;
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	font-family: Georgia, serif;
 }
+
+h2 {
+	color: black;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+
+p {
+	color: black;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
